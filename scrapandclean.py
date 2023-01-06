@@ -19,7 +19,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 
 # Set the hashtag to search for
-hashtag = "#NBSportUpdates"
+hashtag = "Enter Hashtag"
 
 # Use tweepy's Cursor object to fetch the tweets
 tweets = tweepy.Cursor(api.search_tweets, q=hashtag, lang="en").items(100)
