@@ -1,6 +1,6 @@
-# sentiment-analysis-project
+# Sentiment Analysis Project
+---
 This is a continuous iteration of a Sentiment Analysis Project I intend to build and deploy using Streamlit.
-
 ---
 This is a Python based Sentiment Analysis project using Tweets to get an impression on whether an individual 
 or particular set of tweets have positive, negative or neutral sentiments.
