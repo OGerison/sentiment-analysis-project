@@ -10,4 +10,4 @@ The main python files holds the analysis code which segments a tweet on a score 
 ---
 It is then run using Streamlit and sentiment analysis can be perform a text or a csv file and in the case of a csv file it can be 
 downloaded and the results can be visualized or furthur analysis be made on it.
-
+---
