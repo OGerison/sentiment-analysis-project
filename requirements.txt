@@ -1,0 +1,7 @@
+Tweepy
+TextBlob
+Pandas
+Cleantext
+Streamlit
+re
+configparser
