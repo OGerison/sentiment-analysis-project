@@ -1,5 +1,7 @@
 # Sentiment Analysis Project
 ---
+Medium Article: https://medium.com/@otim22gerison/twitter-sentiment-analysis-project-89a754807850
+---
 This is a continuous iteration of a Sentiment Analysis Project I intend to build and deploy using Streamlit.
 ---
 This is a Python based Sentiment Analysis project using Tweets to get an impression on whether an individual 
