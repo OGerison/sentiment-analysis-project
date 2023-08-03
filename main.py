@@ -2,6 +2,7 @@ from textblob import TextBlob
 import pandas as pd
 import streamlit as st
 import cleantext
+import numpy as np
 
 st.header('Sentiment Analysis')
 with st.expander('Analyze Text'):
